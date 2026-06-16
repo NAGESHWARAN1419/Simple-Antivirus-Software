@@ -1,0 +1,22 @@
+Project Name: Basic Antivirus Simulation
+
+Description:
+This project simulates a signature-based antivirus system using Python. The scanner checks files inside a folder, generates SHA256 hashes, compares them with known malware signatures stored in a database, and detects malicious files. Detected files are automatically moved into a quarantine folder.
+
+Modules Used:
+
+* os
+* hashlib
+* shutil
+
+Features:
+
+* File scanning
+* SHA256 hashing
+* Malware signature comparison
+* Quarantine system
+
+Purpose:
+To understand the fundamentals of antivirus detection systems and cybersecurity automation.
+Project Name: Basic Antivirus Simulation
+
